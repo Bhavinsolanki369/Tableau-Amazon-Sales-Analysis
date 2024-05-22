@@ -1,0 +1,14 @@
+Region		Dimension	regions of the globe	                      goal	
+Country		Dimension	countries of the glob		                      Problem Statement:
+Item Type	Dimension	these are categories of products		        Sales management has gained importance to meet increasing competition and the
+Sales Channel	Dimension	online or offline		                        need for improved methods of distribution to reduce cost and to increase profits. Sales
+Order Priority	Dimension	how urgent the orders are	                          	management today is the most important function in a commercial and business
+Order Date	Dimension	date when order is placed	                      	enterprise.
+Order ID	Dimension	unique for each order		                        Do ETL: Extract-Transform-Load some Amazon dataset and find for me
+Ship Date	Dimension	date when order is delivered	                          	Sales-trend -> month-wise, year-wise, yearly_month-wise
+Units Sold	measure		sum or total units sold		                       Find key metrics and factors and show the meaningful relationships between
+Unit Price	measure		price of one unit		                          attributes. Do your own research and come up with your findings.
+Unit Cost	measure		making cost of one unit (cost to company)		
+Total Revenue	measure		final value generatd after sales		
+Total Cost	measure		total investment done by company for sales   reduce this	
+Total Profit	measure		difference b/w Ttl revenue and Ttl cost	     increase this	
