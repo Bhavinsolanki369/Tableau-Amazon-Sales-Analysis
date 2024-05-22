@@ -18,6 +18,8 @@ Finally there is a insightfull, fully interactive and easy to understand visuali
 
 I hope you will find these analysis helpful for desiding on future strategies to boost sales and market reach.
 
+Dashboard: https://public.tableau.com/shared/7HTGS85TB?:display_count=n&:origin=viz_share_link
+
 #python #posgresql #tableau #excel #paint #microsoft_word
 
 
