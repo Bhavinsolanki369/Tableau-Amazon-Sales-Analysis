@@ -13,7 +13,7 @@ Finally there is a insightful, fully interactive and easy to understand visualiz
 
 I hope you will find these report is helpful for strategies to materialize sales and market penetration goals.
 
-Dashboard: https://public.tableau.com/shared/7HTGS85TB?:display_count=n&:origin=viz_share_link
+Dashboard: https://public.tableau.com/app/profile/bhavin.solanki369/viz/AmazonSalesAnalysis_17163777474180/AmazonSalesDashboard
 
 #DataAnalysis #DataAnalyst #python #pandas #posgresql #tableau #excel #paint #microsoft_word
 
