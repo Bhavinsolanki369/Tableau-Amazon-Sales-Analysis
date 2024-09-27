@@ -20,7 +20,7 @@ I hope you will find these analysis helpful for desiding on future strategies to
 
 Dashboard: https://public.tableau.com/shared/7HTGS85TB?:display_count=n&:origin=viz_share_link
 
-#python #posgresql #tableau #excel #paint #microsoft_word
+#DataAnalysis #DataAnalyst #python #pandas #posgresql #tableau #excel #paint #microsoft_word
 
 
 
